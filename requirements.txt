@@ -9,7 +9,7 @@ idna==2.8
 jieba==0.42
 jieba3k==0.35.1
 jusText==2.2.0
-lxml==4.4.2
+lxml==4.6.2
 newspaper3k==0.2.8
 nltk==3.4.5
 Pillow==7.0.0
